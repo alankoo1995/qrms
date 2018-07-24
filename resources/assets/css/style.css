@@ -1,0 +1,19 @@
+.row.content{
+	height: 1200px; 
+}
+.sidenav{
+	background-color: #f1f1f1;
+	height: 100%;
+	font-size: 25px;
+	line-height: 180%;
+}
+.sidenav .sidenav-top{
+	margin-top: 20px;
+	height: 60px;
+}
+.main-content .table-top{
+	height: 80px;
+}
+.main-content .form-top{
+	height: 80px;
+}

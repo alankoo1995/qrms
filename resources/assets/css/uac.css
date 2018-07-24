@@ -1,0 +1,22 @@
+/* .vertical-align-helper{
+	display: table;
+	height: 100%;
+	width: 100%;
+	pointer-events: none;
+}
+.vertical-align-center{
+	display: table-cell;
+	vertical-align: middle;
+	pointer-events: none;
+}
+.modal-body{
+	width: 50%;
+	max-width: inherit;
+	height: inherit;
+	margin: 0 auto;
+	pointer-events: all;
+} */
+
+.addUser{
+	margin-top: 40px;
+}
